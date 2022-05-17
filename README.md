@@ -1,5 +1,7 @@
 # AQI-Race
 
+This work was done for the Monitoring Cities (CE-GY 6053 + CUSP-GX 6005 2022 Spring) course at NYU.
+
 This repository contains a presentation and Google Earth Engine Code for Analysis of Relationship between Air Quality and Race in San Diego, San Francisco, and Los Angeles
 
 ## Data Preparation
